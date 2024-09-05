@@ -1,0 +1,2 @@
+0 abrir mano
+1 cerrar mano
